@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/emergency"
+        android:contentDescription="sos"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="SOS"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/camera"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="SOS"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/more"
+        android:title="More"
+        android:contentDescription="more"
+        app:showAsAction="always" />
+
+</menu>

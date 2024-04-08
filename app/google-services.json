@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1073950192868",
+    "project_id": "findmyfamily-80dbf",
+    "storage_bucket": "findmyfamily-80dbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073950192868:android:1fb6adc5a13edf482968f1",
+        "android_client_info": {
+          "package_name": "com.finalapp.findmyfamily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073950192868-54ivjo2qr1d2gtraffkr3k14lplef53i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxIaMKgSz4ODFq5P98htfSCwNWUeO7cEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073950192868-54ivjo2qr1d2gtraffkr3k14lplef53i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

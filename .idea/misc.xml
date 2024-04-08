@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/projects/MobileApplication/Android/FindMyFamily/app/src/main/res/drawable-v24/ic_sidebar_logout.xml" value="0.11" />
+        <entry key="..\:/projects/MobileApplication/Android/FindMyFamily/app/src/main/res/drawable-v24/side_nav_bar.xml" value="0.1" />
+        <entry key="..\:/projects/MobileApplication/Android/FindMyFamily/app/src/main/res/drawable/custom_green_text_input_background.xml" value="0.121" />
+        <entry key="..\:/projects/MobileApplication/Android/FindMyFamily/app/src/main/res/drawable/custom_text_input_background.xml" value="0.13" />
+        <entry key="..\:/projects/MobileApplication/Android/FindMyFamily/app/src/main/res/drawable/custom_yellow_text_input_background.xml" value="0.121" />
+        <entry key="..\:/projects/MobileApplication/Android/FindMyFamily/app/src/main/res/drawable/ic_add_picture.xml" value="0.177" />
+        <entry key="..\:/projects/MobileApplication/Android/FindMyFamily/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.11" />
+        <entry key="..\:/projects/MobileApplication/Android/FindMyFamily/app/src/main/res/drawable/ic_baseline_insert_photo_24.xml" value="0.15" />
+        <entry key="..\:/projects/MobileApplication/Android/FindMyFamily/app/src/main/res/drawable/ic_menu.xml" value="0.178" />
+        <entry key="..\:/projects/MobileApplication/Android/FindMyFamily/app/src/main/res/drawable/ic_sidebar_chat.xml" value="0.15" />
+        <entry key="..\:/projects/MobileApplication/Android/FindMyFamily/app/src/main/res/drawable/ic_sidebar_home.xml" value="0.11" />
+        <entry key="..\:/projects/MobileApplication/Android/FindMyFamily/app/src/main/res/drawable/ic_sidebar_person.xml" value="0.177" />
+        <entry key="..\:/projects/MobileApplication/Android/FindMyFamily/app/src/main/res/drawable/ic_sidebar_reset.xml" value="0.177" />
+        <entry key="..\:/projects/MobileApplication/Android/FindMyFamily/app/src/main/res/drawable/ic_sidebar_title_profile.xml" value="0.15" />
+        <entry key="..\:/projects/MobileApplication/Android/FindMyFamily/app/src/main/res/layout-v28/activity_sign_in.xml" value="0.22871376811594202" />
+        <entry key="..\:/projects/MobileApplication/Android/FindMyFamily/app/src/main/res/layout/activity_confirm_email.xml" value="0.259963768115942" />
+        <entry key="..\:/projects/MobileApplication/Android/FindMyFamily/app/src/main/res/layout/activity_create_new_account.xml" value="0.264" />
+        <entry key="..\:/projects/MobileApplication/Android/FindMyFamily/app/src/main/res/layout/activity_forgot_password.xml" value="0.264" />
+        <entry key="..\:/projects/MobileApplication/Android/FindMyFamily/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/projects/MobileApplication/Android/FindMyFamily/app/src/main/res/layout/activity_main.xml" value="0.16799999999999998" />
+        <entry key="..\:/projects/MobileApplication/Android/FindMyFamily/app/src/main/res/layout/activity_register_new_user.xml" value="0.16799999999999998" />
+        <entry key="..\:/projects/MobileApplication/Android/FindMyFamily/app/src/main/res/layout/activity_sign_in.xml" value="0.264" />
+        <entry key="..\:/projects/MobileApplication/Android/FindMyFamily/app/src/main/res/layout/activity_sign_up.xml" value="0.264" />
+        <entry key="..\:/projects/MobileApplication/Android/FindMyFamily/app/src/main/res/layout/activity_splash.xml" value="0.264" />
+        <entry key="..\:/projects/MobileApplication/Android/FindMyFamily/app/src/main/res/layout/drawer_header_layout.xml" value="0.4" />
+        <entry key="..\:/projects/MobileApplication/Android/FindMyFamily/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/projects/MobileApplication/Android/FindMyFamily/app/src/main/res/layout/fragment_profile.xml" value="0.15806159420289856" />
+        <entry key="..\:/projects/MobileApplication/Android/FindMyFamily/app/src/main/res/layout/fragment_settings.xml" value="0.1" />
+        <entry key="..\:/projects/MobileApplication/Android/FindMyFamily/app/src/main/res/layout/main_toolbar.xml" value="0.2" />
+        <entry key="..\:/projects/MobileApplication/Android/FindMyFamily/app/src/main/res/menu/side_nav_menu.xml" value="0.27447916666666666" />
+        <entry key="..\:/projects/MobileApplication/Android/FindMyFamily/app/src/main/res/menu/toolbar_menu.xml" value="0.16770833333333332" />
+        <entry key="..\:/projects/MobileApplication/Android/FindMyFamily/app/src/main/res/menu/toolmenu.xml" value="0.16875" />
+        <entry key="..\:/projects/MobileApplication/Android/FindMyFamily/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.121" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
